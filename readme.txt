@@ -1,4 +1,4 @@
 git is a version control system.
 git is free software.
 git has amutable index called stage
-git tracks changes
+git tracks changes of fiels
