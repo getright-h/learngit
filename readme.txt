@@ -5,7 +5,11 @@ git tracks changes of fiels
 create branch dev
 lalala
 <<<<<<< HEAD
-create a new feature
+<<<<<<< HEAD
+create a new feature12
 =======
-create a new feature
+create a new feature12
+>>>>>>> feature1
+=======
+create a new feature12
 >>>>>>> feature1
