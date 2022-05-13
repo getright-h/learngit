@@ -4,4 +4,8 @@ git has amutable index called stage
 git tracks changes of fiels
 create branch dev
 lalala
+<<<<<<< HEAD
 create a new feature
+=======
+create a new feature
+>>>>>>> feature1
