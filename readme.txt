@@ -1,3 +1,3 @@
 git is a version control system.
 git is free software.
-~~~~
+git has amutable index called stage
